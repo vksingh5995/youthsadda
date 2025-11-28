@@ -1,3 +1,4 @@
+baseurl: "/youthsadda"
 collections:
   blog:
     output: true
